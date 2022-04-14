@@ -364,7 +364,7 @@ binary
 [generate ts]
 service=true
 plugin_version=v0.12.0
-fix_paths_post_proc=true
+fix_paths_postproc=true
 
 [generate ts_proto]
 service=true
